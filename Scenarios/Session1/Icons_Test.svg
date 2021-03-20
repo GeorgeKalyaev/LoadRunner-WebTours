@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="42px" width="42px" viewBox="0 0 42 42">
+	<svg x="13px" y="13px" height="16px" width="16px" viewBox="0 0 16 16">
+		<style type="text/css">
+		.color{fill:#FFFFFF;}
+		</style>
+		<g class="color">
+			<path class="st0" d="M9.1,8.2l4.3,5.6H2.6l4.3-5.6H9.1 M10,6H6l-5.6,7.2c-0.9,1-0.3,2.8,0.8,2.8h13.5c1.2,0,1.7-1.8,0.8-2.8L10,6L10,6z"/>
+			<path class="st0" d="M5,1v7h6V1H5z M9,6H7V3h2V6z"/>
+			<rect x="3" class="st0" width="10" height="2"/>
+		</g>
+	</svg>
+</svg>

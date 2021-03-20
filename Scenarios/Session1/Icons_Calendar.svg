@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="42px" width="42px" viewBox="0 0 42 42">
+	<svg x="13px" y="13px" height="16px" width="16px" viewBox="0 0 16 16">
+		<style type="text/css">
+		.color{fill:#FFFFFF;}
+		</style>
+		<path class="color" d="M12,2V0h-2v2H6V0H4v2H0v14h16V2H12z M14,14H2V9h12V14z M14,7H2V4h12V7z"/>
+	</svg>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="42px" width="42px" viewBox="0 0 42 42">
+	<svg x="13px" y="13px" height="16px" width="16px" viewBox="0 0 16 16">
+		<style type="text/css">
+		 .color{stroke:#FFFFFF;
+		 		stroke-width:1.7;
+		 		fill:none}
+		</style>
+		<g class="color">
+			<rect x="0.75" y="7" width="3" height="8.5"/>
+			<rect x="11.25" y="7" width="3" height="8.5"/>
+			<rect x="6" width="3" height="15.5"/>
+		</g>
+	</svg>
+</svg>

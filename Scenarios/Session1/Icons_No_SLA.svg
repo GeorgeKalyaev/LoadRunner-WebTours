@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="42px" width="42px" viewBox="0 0 42 42">
+	<svg x="13px" y="13px" height="16px" width="16px" viewBox="0 0 16 16">
+		<style type="text/css">
+		.color{ fill:white;
+				stroke-width:1px;
+				stroke:#C1C7D3;
+				}
+		</style>
+		<g>
+			<rect x="1" y="7" width="3" height="9" class="color"/>
+			<rect x="11" y="7" width="3" height="9" class="color"/>
+			<rect x="6" width="3" height="16" class="color"/>
+		</g>
+	</svg>
+</svg>
