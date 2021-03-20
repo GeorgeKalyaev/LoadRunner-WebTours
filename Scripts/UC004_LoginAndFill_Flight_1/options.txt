@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\kalya\Documents\SharpDevelop Projects\UC004_LoginAndFill_Flight_1
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\kalya\documents\sharpdevelop projects\uc004_loginandfill_flight_1\\logfile.log
+c:\users\kalya\documents\sharpdevelop projects\uc004_loginandfill_flight_1\\combined_UC004_LoginAndFill_Flight_1.c
+c:\users\kalya\documents\sharpdevelop projects\uc004_loginandfill_flight_1\\pre_cci.c

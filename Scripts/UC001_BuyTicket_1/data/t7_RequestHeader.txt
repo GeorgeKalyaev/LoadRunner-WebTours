@@ -1,0 +1,10 @@
+GET /cgi-bin/welcome.pl?signOff=1 HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Referer: http://192.168.26.1:1080/cgi-bin/nav.pl?page=menu&in=flights
+Accept-Language: ru,en-US;q=0.7,en;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Host: 192.168.26.1:1080
+Connection: Keep-Alive
+Cookie: MSO=SID&1614450174; MTUserInfo=firstName&&username&kalyaev&address2&&hash&86&address1&&lastName&%0A
+

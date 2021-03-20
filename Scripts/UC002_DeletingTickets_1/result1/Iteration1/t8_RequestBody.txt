@@ -1,0 +1,8 @@
+"1=on&flightID=1374327078-7779-RR&flightID=137435226-1546-RR&flightID=137426421-2336-RR&flightI"
+"D=137441195-3097-RR&flightID=1374327078-38548-RR&flightID=13743076-466-RR&flightID=137432300-5"
+"393-RR&flightID=137421985-6201-RR&flightID=137412675-6940-RR&flightID=1374160414-77014-RR&flig"
+"htID=137441124-8490-RR&flightID=137422601-9249-RR&flightID=137415954-10059-RR&flightID=1374204"
+"90-10787-RR&flightID=137415276-11574-RR&flightID=137441157-12327-RR&flightID=137441875-13126-R"
+"R&.cgifields=11&.cgifields=7&.cgifields=17&.cgifields=2&.cgifields=1&.cgifields=16&.cgifields="
+"13&.cgifields=6&.cgifields=3&.cgifields=9&.cgifields=12&.cgifields=14&.cgifields=15&.cgifields"
+"=8&.cgifields=4&.cgifields=10&.cgifields=5&removeFlights.x=56&removeFlights.y=9"

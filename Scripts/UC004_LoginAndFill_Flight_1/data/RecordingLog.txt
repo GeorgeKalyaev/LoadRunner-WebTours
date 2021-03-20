@@ -1,0 +1,261 @@
+[API Trapper      (23e0:1078)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\iexplore.exe
+[API Trapper      (3290:4b00)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      ( 4b8:234c)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer ( 4b8:4524)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 4b8:4524)] Load Network Traffic Analyzers:
+[Network Analyzer ( 4b8:4524)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( 4b8:4524)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer ( 4b8:4524)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( 4b8:4524)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer ( 4b8:4524)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer ( 4b8:4524)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( 4b8:4524)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 4b8: 9e0)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[API Trapper      (4988:2c8c)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\88.0.705.81\BHO\ie_to_edge_stub.exe
+[API Trapper      (457c:22b8)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[API Trapper      (1ba0:27cc)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer ( 4b8:4524)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( 4b8:4524)] Request Connection: Remote Server @ 192.168.26.1:1080   (Service=)  (Sid=  1)  PROXIED!
+[Web Request      ( 4b8: 9e0)] "GET /WebTours/"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  1) Client -> Server @ : 291 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  1) Server -> Client : 664 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 9e0)] "GET /WebTours/header.html"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  1) Client -> Server @ : 347 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  1) Server -> Client : 1007 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8:4524)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( 4b8:4524)] Request Connection: Remote Server @ 192.168.26.1:1080   (Service=)  (Sid=  2)  PROXIED!
+[Web Request      ( 4b8: 9e0)] "GET /WebTours/images/hp_logo.png"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  1) Client -> Server @ : 378 bytes (Service=HTTP)
+[Web Request      ( 4b8: 9e0)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  2) Client -> Server @ : 358 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  1) Server -> Client : 898 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 9e0)] "GET /WebTours/images/webtours.png"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  1) Client -> Server @ : 379 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  1) Server -> Client : 4486 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8:4524)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( 4b8:4524)] Request Connection: Remote Server @ 192.168.26.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  2) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 9e0)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  2) Client -> Server @ : 399 bytes (Service=HTTP)
+[Web Request      ( 4b8: 9e0)] "GET /WebTours/home.html"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  1) Client -> Server @ : 395 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  1) Server -> Client : 1659 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  2) Server -> Client : 1746 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 9e0)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  2) Client -> Server @ : 410 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  2) Server -> Client : 976 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 9e0)] "GET /favicon.ico"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  2) Client -> Server @ : 234 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  2) Server -> Client : 424 bytes  (Service=HTTP)
+[API Trapper      ( b30:38bc)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer ( b30:4444)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( b30:4444)] Load Network Traffic Analyzers:
+[Network Analyzer ( b30:4444)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( b30:4444)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer ( b30:4444)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( b30:4444)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer ( b30:4444)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer ( b30:4444)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( b30:4444)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( b30:2c9c)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( b30:4444)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( b30: f38)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( b30: f38)] Request Connection: Remote Server @ 23.14.7.181:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer ( b30:4444)] Request Connection: Remote Server @ 23.14.7.181:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer ( b30:22cc)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( b30:32e8)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( b30:32e8)] Request Connection: Remote Server @ 104.18.24.243:80   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer ( b30:3a34)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      ( b30:2c9c)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCE2sABplxS2KOeMlNPQAAAAAGmXE%3D"   
+[Network Analyzer ( b30:2c9c)]   (Sid:  3) Client -> Server @ : 238 bytes (Service=HTTP)
+[Network Analyzer ( b30:2c9c)]   (Sid:  3) Server -> Client : 541 bytes  (Service=HTTP)
+[Web Request      ( b30:2c9c)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCE2sABplxS2KOeMlNPQAAAAAGmXE%3D"   
+[Network Analyzer ( b30:2c9c)]   (Sid:  3) Client -> Server @ : 281 bytes (Service=HTTP)
+[Network Analyzer ( b30:2c9c)]   (Sid:  3) Server -> Client : 545 bytes  (Service=HTTP)
+[Network Analyzer ( b30:4444)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( b30:4444)] Request Connection: Remote Server @ 152.199.19.160:80   (Service=)  (Sid=  4)  PROXIED!
+[Web Request      ( b30:2c9c)] "GET /pki/mscorp/crl/Microsoft%20RSA%20TLS%20CA%2001.crl"   
+[Network Analyzer ( b30:2c9c)]   (Sid:  4) Client -> Server @ : 170 bytes (Service=HTTP)
+[Network Analyzer ( b30:2c9c)]   (Sid:  4) Server -> Client : 1380 bytes  (Service=HTTP)
+[Network Analyzer ( b30:2c9c)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( b30:2c9c)]   (Sid:  4) Server -> Client : 10069 bytes  (Service=HTTP)
+[Web Request      ( b30:2c9c)] "GET /pki/mscorp/crl/Microsoft%20RSA%20TLS%20CA%2001.crl"   
+[Network Analyzer ( b30:2c9c)]   (Sid:  4) Client -> Server @ : 213 bytes (Service=HTTP)
+[Network Analyzer ( b30:2c9c)]   (Sid:  4) Server -> Client : 1380 bytes  (Service=HTTP)
+[Network Analyzer ( b30:2c9c)]   (Sid:  4) Server -> Client : 16384 bytes  (Service=HTTP)
+[Network Analyzer ( b30:2c9c)]   (Sid:  4) Server -> Client : 10069 bytes  (Service=HTTP)
+[Network Analyzer ( b30:49c4)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( b30:49c4)] Request Connection: Remote Server @ 212.188.39.209:80   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  1) Connection Terminated (by Server)
+[Web Request      ( b30:2c9c)] "GET /pki/mscorp/crl/Microsoft%20RSA%20TLS%20CA%2001.crl"   
+[Network Analyzer ( b30:2c9c)]   (Sid:  5) Client -> Server @ : 168 bytes (Service=HTTP)
+[Network Analyzer ( b30:2c9c)]   (Sid:  5) Server -> Client : 1380 bytes  (Service=HTTP)
+[Network Analyzer ( b30:2c9c)]   (Sid:  5) Server -> Client : 4140 bytes  (Service=HTTP)
+[Network Analyzer ( b30:2c9c)]   (Sid:  5) Server -> Client : 1380 bytes  (Service=HTTP)
+[Network Analyzer ( b30:2c9c)]   (Sid:  5) Server -> Client : 5520 bytes  (Service=HTTP)
+[Network Analyzer ( b30:2c9c)]   (Sid:  5) Server -> Client : 6900 bytes  (Service=HTTP)
+[Network Analyzer ( b30:2c9c)]   (Sid:  5) Server -> Client : 5520 bytes  (Service=HTTP)
+[Network Analyzer ( b30:2c9c)]   (Sid:  5) Server -> Client : 2998 bytes  (Service=HTTP)
+[Web Request      ( b30:2c9c)] "GET /pki/mscorp/crl/Microsoft%20RSA%20TLS%20CA%2001.crl"   
+[Network Analyzer ( b30:2c9c)]   (Sid:  5) Client -> Server @ : 211 bytes (Service=HTTP)
+[Network Analyzer ( b30:2c9c)]   (Sid:  5) Server -> Client : 1380 bytes  (Service=HTTP)
+[Network Analyzer ( b30:2c9c)]   (Sid:  5) Server -> Client : 15180 bytes  (Service=HTTP)
+[Network Analyzer ( b30:2c9c)]   (Sid:  5) Server -> Client : 5520 bytes  (Service=HTTP)
+[Network Analyzer ( b30:2c9c)]   (Sid:  5) Server -> Client : 5758 bytes  (Service=HTTP)
+[Net An. Error    ( b30:22cc)] SSLAccept(ssl_id = 299822608 = 11DEEE10) Failed, ctx = 11DBBF08, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    ( b30:3a34)] SSLAccept(ssl_id = 300402744 = 11E7C838) Failed, ctx = 11DBBF08, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    ( b30:22cc)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    ( b30:3a34)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer ( b30:2c9c)]   (Sid:  1) Connection Terminated (by Client)
+[Network Analyzer ( b30:2c9c)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer ( b30: f38)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( b30: f38)] Request Connection: Remote Server @ 23.14.7.181:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer ( b30:1894)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer ( b30:1894)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Web Request      ( b30:2c9c)] "GET /fwlink/?LinkId=838604"   
+[Network Analyzer ( b30:2c9c)]   (Sid:  6) Client -> Server @ : 485 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( b30:2c9c)]   (Sid:  6) Server -> Client : 480 bytes (SSL) (Service=HTTP)
+[Web Request      ( b30:2c9c)] "GET /fwlink/?LinkId=517287"   
+[Network Analyzer ( b30:2c9c)]   (Sid:  6) Client -> Server @ : 485 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( b30:2c9c)]   (Sid:  6) Server -> Client : 478 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( b30: f38)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( b30:32e8)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( b30:32e8)] Request Connection: Remote Server @ 95.101.172.129:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer ( b30: f38)] Request Connection: Remote Server @ 95.101.172.129:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer ( b30:36ac)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Web Request      ( b30:2c9c)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCE2sAAAP046Z6I0hVDDMAAAAAA%2FQ%3D"   
+[Network Analyzer ( b30:2c9c)]   (Sid:  3) Client -> Server @ : 240 bytes (Service=HTTP)
+[Network Analyzer ( b30:4768)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( b30:2c9c)]   (Sid:  3) Server -> Client : 541 bytes  (Service=HTTP)
+[Web Request      ( b30:2c9c)] "GET /MFQwUjBQME4wTDAJBgUrDgMCGgUABBR0AkbyWlxCEiC1vV12Caa6XKNH3wQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCE2sAAAP046Z6I0hVDDMAAAAAA%2FQ%3D"   
+[Network Analyzer ( b30:2c9c)]   (Sid:  3) Client -> Server @ : 283 bytes (Service=HTTP)
+[Network Analyzer ( b30:2c9c)]   (Sid:  3) Server -> Client : 545 bytes  (Service=HTTP)
+[Net An. Error    ( b30:36ac)] SSLAccept(ssl_id = 300325536 = 11E69AA0) Failed, ctx = 11DFCFD0, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    ( b30:4768)] SSLAccept(ssl_id = 301792872 = 11FCFE68) Failed, ctx = 11DFCFD0, err = "SSLv3/TLS write server done", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    ( b30:36ac)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Net An. Error    ( b30:4768)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer ( b30:2c9c)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer ( b30:2c9c)]   (Sid:  8) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent login [Network Analyzer ( 4b8:4524)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( 4b8:4524)] Request Connection: Remote Server @ 192.168.26.1:1080   (Service=)  (Sid=  4)  PROXIED!
+[Web Request      ( 4b8: 9e0)] "POST /cgi-bin/login.pl"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  4) Client -> Server @ : 603 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  4) Server -> Client : 842 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  4) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 9e0)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  4) Client -> Server @ : 499 bytes (Service=HTTP)
+[Network Analyzer ( 4b8:4524)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( 4b8:4524)] Request Connection: Remote Server @ 192.168.26.1:1080   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  4) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  4) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 9e0)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  5) Client -> Server @ : 494 bytes (Service=HTTP)
+[Web Request      ( 4b8: 9e0)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  4) Client -> Server @ : 523 bytes (Service=HTTP)
+[Network Analyzer ( 4b8:32c8)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( 4b8:4b24)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( 4b8:4524)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( 4b8:32c8)] Request Connection: Remote Server @ 192.168.26.1:1080   (Service=)  (Sid=  6)  PROXIED!
+[Web Request      ( 4b8: 9e0)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  6) Client -> Server @ : 523 bytes (Service=HTTP)
+[Network Analyzer ( 4b8:4b24)] Request Connection: Remote Server @ 192.168.26.1:1080   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  6) Server -> Client : 1049 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8:4524)] Request Connection: Remote Server @ 192.168.26.1:1080   (Service=)  (Sid=  8)  PROXIED!
+[Web Request      ( 4b8: 9e0)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  7) Client -> Server @ : 523 bytes (Service=HTTP)
+[Web Request      ( 4b8: 9e0)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  8) Client -> Server @ : 525 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  7) Server -> Client : 986 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  8) Server -> Client : 1031 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  5) Server -> Client : 1157 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  5) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  4) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  6) Connection Terminated (by Server)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  8) Connection Terminated (by Server)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  7) Connection Terminated (by Server)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  5) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent login [User action                 ] StartTransactionEvent Flights [Network Analyzer ( 4b8:32c8)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( 4b8:32c8)] Request Connection: Remote Server @ 192.168.26.1:1080   (Service=)  (Sid=  9)  PROXIED!
+[Web Request      ( 4b8: 9e0)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  9) Client -> Server @ : 513 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  9) Server -> Client : 839 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  9) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 9e0)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  9) Client -> Server @ : 516 bytes (Service=HTTP)
+[Network Analyzer ( 4b8:32c8)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( 4b8:32c8)] Request Connection: Remote Server @ 192.168.26.1:1080   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  9) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  9) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 9e0)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 10) Client -> Server @ : 517 bytes (Service=HTTP)
+[Web Request      ( 4b8: 9e0)] "GET /WebTours/images/in_flights.gif"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  9) Client -> Server @ : 529 bytes (Service=HTTP)
+[Network Analyzer ( 4b8:32c8)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( 4b8:32c8)] Request Connection: Remote Server @ 192.168.26.1:1080   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 10) Server -> Client : 4235 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 10) Server -> Client : 286 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 9e0)] "GET /WebTours/images/home.gif"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 11) Client -> Server @ : 523 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 11) Server -> Client : 986 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 9e0)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 10) Client -> Server @ : 531 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  9) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 10) Server -> Client : 1055 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 9e0)] "GET /WebTours/classes/"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 10) Client -> Server @ : 480 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 10) Server -> Client : 434 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 9e0)] "GET /WebTours/classes/"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 10) Client -> Server @ : 480 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 10) Server -> Client : 434 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 11) Connection Terminated (by Server)
+[Network Analyzer ( 4b8: 9e0)]   (Sid:  9) Connection Terminated (by Server)
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 10) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent Flights [User action                 ] StartTransactionEvent Find_flight [Network Analyzer ( 4b8:4524)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( 4b8:4524)] Request Connection: Remote Server @ 192.168.26.1:1080   (Service=)  (Sid= 12)  PROXIED!
+[Web Request      ( 4b8: 9e0)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 12) Client -> Server @ : 852 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 12) Server -> Client : 2718 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 12) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 12) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent Find_flight [User action                 ] StartTransactionEvent bay_ticket [Network Analyzer ( 4b8:4524)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( 4b8:4524)] Request Connection: Remote Server @ 192.168.26.1:1080   (Service=)  (Sid= 13)  PROXIED!
+[Web Request      ( 4b8: 9e0)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 13) Client -> Server @ : 742 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 13) Server -> Client : 2944 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 13) Server -> Client : 5 bytes  (Service=HTTP)
+[User action                 ] EndTransactionEvent bay_ticket [Network Analyzer ( 4b8: 9e0)]   (Sid: 13) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent fillform_payment_detalise [Network Analyzer ( 4b8:4524)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( 4b8:4524)] Request Connection: Remote Server @ 192.168.26.1:1080   (Service=)  (Sid= 14)  PROXIED!
+[Web Request      ( 4b8: 9e0)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 14) Client -> Server @ : 956 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 14) Server -> Client : 2883 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 14) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 9e0)] "GET /WebTours/images/bookanother.gif"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 14) Client -> Server @ : 494 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 14) Server -> Client : 1103 bytes  (Service=HTTP)
+[User action                 ] EndTransactionEvent fillform_payment_detalise [Network Analyzer ( 4b8: 9e0)]   (Sid: 14) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent logout [Network Analyzer ( 4b8:4524)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( 4b8:4524)] Request Connection: Remote Server @ 192.168.26.1:1080   (Service=)  (Sid= 15)  PROXIED!
+[Web Request      ( 4b8: 9e0)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 15) Client -> Server @ : 490 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 15) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 15) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 9e0)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 15) Client -> Server @ : 396 bytes (Service=HTTP)
+[Network Analyzer ( 4b8:4524)] Address lookup for DESKTOP-22I082J = 192.168.26.1
+[Network Analyzer ( 4b8:4524)] Request Connection: Remote Server @ 192.168.26.1:1080   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 15) Server -> Client : 1752 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 15) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 9e0)] "GET /WebTours/home.html"   
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 16) Client -> Server @ : 492 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 9e0)]   (Sid: 16) Server -> Client : 194 bytes  (Service=HTTP)
+[User action                 ] EndTransactionEvent logout 
