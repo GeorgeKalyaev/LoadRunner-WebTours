@@ -1,8 +1,0 @@
-GET /WebTours/ HTTP/1.1
-Accept: text/html, application/xhtml+xml, image/jxr, */*
-Accept-Language: ru,en-US;q=0.7,en;q=0.3
-User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
-Accept-Encoding: gzip, deflate
-Host: 192.168.26.1:1080
-Connection: Keep-Alive
-
