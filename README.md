@@ -29,5 +29,5 @@
     - Click_Flights - Переход на вкладку «Flights»
     - Fill_Flight - Заполнить поля для поиска рейс, нажать кнопку «Continue»
     - Choose_Flight - Выбор доступного рейса, нажать кнопку «Continue»
-    - Click_Itinerary
+    - Click_Itinerary - Переход во вкладку забронированные билеты
     - Logout - Выполнить выход из системы
